@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\reposVisualStudio\\Projects\\2 semester\\Laboratory Work 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87773A70-C633-4E41-93D2-3ECE09FD08D8}|Laboratory Work 8\\Laboratory Work 8.vcxproj|D:\\Source\\reposVisualStudio\\Projects\\2 semester\\Laboratory Work 8\\Laboratory Work 8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87773A70-C633-4E41-93D2-3ECE09FD08D8}|Laboratory Work 8\\Laboratory Work 8.vcxproj|solutionrelative:Laboratory Work 8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Source\\reposVisualStudio\\Projects\\2 semester\\Laboratory Work 8\\Laboratory Work 8\\main.c",
+              "RelativeDocumentMoniker": "Laboratory Work 8\\main.c",
+              "ToolTip": "D:\\Source\\reposVisualStudio\\Projects\\2 semester\\Laboratory Work 8\\Laboratory Work 8\\main.c",
+              "RelativeToolTip": "Laboratory Work 8\\main.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAGYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-05T05:37:54.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

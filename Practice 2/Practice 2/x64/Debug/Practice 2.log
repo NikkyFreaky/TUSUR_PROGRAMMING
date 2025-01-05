@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Practice 2\Practice 2\main.c(92,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Practice 2\Practice 2\main.c(92,10): message : рекомендуется использовать "%zd" в строке форматирования
+  Practice 2.vcxproj -> C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Practice 2\x64\Debug\Practice 2.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Practice 5\Practice 5\main.c(13,20): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+  Practice 5.vcxproj -> C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Practice 5\x64\Debug\Practice 5.exe

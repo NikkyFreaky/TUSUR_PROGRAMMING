@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Laboratory Work 6\Laboratory Work 6\main.c(55,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laboratory Work 6.vcxproj -> C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Laboratory Work 6\x64\Debug\Laboratory Work 6.exe

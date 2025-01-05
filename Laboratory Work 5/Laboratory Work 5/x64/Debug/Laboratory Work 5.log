@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Laboratory Work 5\Laboratory Work 5\main.c(112,12): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Laboratory Work 5\Laboratory Work 5\main.c(99,15): warning C4101: j: неиспользованная локальная переменная
+  Laboratory Work 5.vcxproj -> C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Laboratory Work 5\x64\Debug\Laboratory Work 5.exe

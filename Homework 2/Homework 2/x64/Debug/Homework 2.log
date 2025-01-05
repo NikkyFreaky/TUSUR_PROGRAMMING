@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Homework 2\Homework 2\main.c(36,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Homework 2\Homework 2\main.c(14,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Homework 2\Homework 2\main.c(60,12): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Homework 2\Homework 2\main.c(69,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Homework 2.vcxproj -> C:\Users\nikky\Documents\Visual Studio 2022\Projects\2 semester\Homework 2\x64\Debug\Homework 2.exe
